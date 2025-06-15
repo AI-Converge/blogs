@@ -1,22 +1,20 @@
 ---
-title: "AI in Modern Web Development"
-date: "2025-08-10T09:00:00Z"
-endDate: "2025-08-10T17:00:00Z"
-location: "Virtual Conference"
-excerpt: "Join us for a full-day virtual conference exploring the latest trends and applications of AI in web development, from intelligent UIs to automated workflows."
-image: "https://images.unsplash.com/photo-1677756119517-756a188d2d94?q=80&w=2070&auto=format&fit=crop"
+title: "AI & The Future of Web Development"
+date: "2025-07-20T17:00:00Z"
+location: "Virtual / Online"
+image: "https://images.unsplash.com/photo-1593349122527-0537e16f39b1?q=80&w=2070"
+excerpt: "Join us for a deep dive into how AI is revolutionizing web development, from coding assistants to automated testing and deployment."
+registrationUrl: "https://lu.ma/your-event-id"
 ---
 
-## About the Event
+### About This Event
 
-This conference brings together leading experts, developers, and innovators to discuss the transformative impact of Artificial Intelligence on modern web development. Whether you're a seasoned developer or just starting, you'll gain valuable insights into the tools and techniques shaping the future of the web.
+This is where you can write the full description of your event. 
 
-### Topics Covered:
+You can use **Markdown** to add formatting like headers, lists, and links. Talk about the speakers, the agenda, and what attendees will learn.
 
-*   AI-powered UI/UX design
-*   Generative AI for content and code
-*   Machine Learning models in the browser
-*   Building intelligent, personalized user experiences
-*   The ethics of AI in web applications
-
-Join our community for a day of learning, networking, and inspiration!
+**Agenda:**
+*   6:00 PM - Welcome & Networking
+*   6:30 PM - Keynote Presentation
+*   7:30 PM - Q&A Session
+*   8:00 PM - Closing Remarks
