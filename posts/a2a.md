@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Inter-App Communication: A Deep Dive into Google's A2A"
-author: "Your Name"
+author: "Joinal Ahmed"
 date: "2025-06-15"
 excerpt: "Explore Google's dual approach to inter-application communication: the established Android App-to-App (A2A) mechanisms and the emerging Agent-to-Agent (A2A) Protocol for AI. This post delves into their functionalities, use cases, security considerations, and the exciting future of interconnected digital ecosystems."
 ---
