@@ -2,7 +2,7 @@
 title: "Beyond the Black Box: Demystifying Agentic AI with Weights & Biases"
 date: "2025-05-31T10:00:00+05:30"
 location: "Hinge Health India Private Limited, Bengaluru"
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2070"
+image: "https://github.com/AI-Converge/blogs/blob/main/posters/Purple%20Lime%20Green%20Modern%20Featured%20Speakers%20Instagram%20Post%20(1).png"
 excerpt: "Join us for a dynamic meetup exploring the cutting edge of AI agentic workflows! This collaborative event with Weights & Biases will dive into both the design principles and practical implementation of autonomous AI systems."
 registrationUrl: "https://lu.ma/hrmt0kne"
 ---
