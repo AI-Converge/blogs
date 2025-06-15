@@ -1,6 +1,6 @@
 ---
 title: "Google A2A and Anthropic MCP: The Future of AI Agent Communication"
-author: "AI Protocol Expert"
+author: "Joinal Ahmed"
 date: "2025-06-15"
 excerpt: "A comprehensive technical guide comparing Google's Agent2Agent (A2A) protocol and Anthropic's Model Context Protocol (MCP), including code examples, architecture patterns, and implementation strategies for building the next generation of AI systems."
 ---
