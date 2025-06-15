@@ -2,7 +2,7 @@
 title: "Agentic Afterparty: Protocol Remix"
 date: "2025-05-17T14:30:00+05:30"
 location: "Google Bangalore - Old Madras Road, Bengaluru"
-image: "[https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2070](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/hk/328112fb-6819-45ba-93f9-e968bc240960.png)"
+image: "https://github.com/AI-Converge/blogs/blob/main/posters/Blue%20and%20Red%20Modern%20Minimalist%20Launch%20Party%20Instagram%20Post%20(1).png"
 excerpt: "Join us for a deep dive into Agentic AI and Application-to-Application (A2A) integration, exploring how these technologies are redefining enterprise automation and multi-agent collaboration."
 registrationUrl: "https://lu.ma/oodttw1z"
 ---
