@@ -2,7 +2,7 @@
 title: "Beyond RAG"
 date: "2024-09-07T13:00:00+05:30"
 location: "HaloDoc, Bengaluru"
-image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070"
+image: "../posters/event5.png"
 excerpt: "Join us for an in-depth exploration of the latest advancements in Retrieval Augmented Generation (RAG). This meetup will delve into Graph RAG and Multimodal RAG, two cutting-edge techniques revolutionizing natural language processing."
 registrationUrl: "https://lu.ma/9333arde"
 ---

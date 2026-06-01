@@ -2,7 +2,7 @@
 title: "Agentic Showdown & Mini-Hackathon"
 date: "2026-04-25T10:00:00+05:30"
 location: "Scopely Games Private Limited, Bengaluru"
-image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070"
+image: "../posters/a2a.png"
 excerpt: "Most AI demos don't survive contact with production. The Agentic Showdown is a full-day, hands-on event to dive deep into evaluation frameworks, scaling execution, and building autonomous systems that work."
 registrationUrl: "https://lu.ma/example-url"
 ---

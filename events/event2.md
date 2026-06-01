@@ -2,7 +2,7 @@
 title: "Agentic Afterparty: Protocol Remix - Rerunn"
 date: "2025-06-28T10:30:00+05:30"
 location: "WeWork Roshni Tech Hub – Marathahalli, Bangalore"
-image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2070"
+image: "../posters/event2.png"
 excerpt: "Join us for a deep dive into Agentic AI and Application-to-Application (A2A) integration, exploring how these technologies are redefining enterprise automation and multi-agent collaboration."
 registrationUrl: "https://lu.ma/gpzy0fhz"
 ---

@@ -2,7 +2,7 @@
 title: "The AI Product Playbook"
 date: "2025-08-23T10:30:00+05:30"
 location: "Simpel Techlabs Private Limited, Bengaluru"
-image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070"
+image: "../posters/event9.png"
 excerpt: "The AI Product Playbook brings together top industry leaders to share battle-tested frameworks for building, launching, and scaling user-trusted, autonomous AI-powered products."
 registrationUrl: "https://lu.ma/example-url"
 ---

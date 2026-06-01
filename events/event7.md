@@ -2,7 +2,7 @@
 title: "VIBE-ATHON: Where AI Meets Firebase Magic ⚡"
 date: "2025-06-21T10:00:00+05:30"
 location: "Google Bangalore - Old Madras Road"
-image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070"
+image: "../posters/event7.jpg"
 excerpt: "Join Bangalore's premier AI community for an intensive 4-hour journey into the world of AI development with Firebase Studio. Combine learning, building, and competing in a fast-paced mini-hackathon."
 registrationUrl: "https://lu.ma/example-url"
 ---
