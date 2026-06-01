@@ -2,7 +2,7 @@
 title: "Lets Build Agentic Apps"
 date: "2025-07-20T11:00:00+05:30"
 location: "WeWork Roshni Tech Hub, Marathahalli, Bengaluru"
-image: "../posters/wandb.png"
+image: "../posters/event8.png"
 excerpt: "Join AI Converge for an exciting meetup designed for developers and AI enthusiasts keen on diving deep into generative UI, enterprise architectures, event-driven agent meshes, and AI gateways."
 registrationUrl: "https://lu.ma/gpzy0fhz"
 ---
