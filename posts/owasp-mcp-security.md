@@ -5,6 +5,7 @@ author: "AI Converge"
 tags: ["AI Security", "Enterprise Architecture", "MCP", "OWASP", "Gemini Enterprise", "GCP"]
 excerpt: "Model Context Protocol changed the threat surface of AI agents overnight. Here's the definitive map of the ten risks that matter — and how Google Cloud's newest enterprise platform is built to neutralise them."
 readTime: "12 min"
+image: "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fdzwithwd8%2Fimage%2Fupload%2Fv1777458690%2Fdevto-images%2Fowasp-mcp-cover.png"
 ---
 
 # OWASP Top 10 for MCP — and how Google's Gemini Enterprise Platform addresses every risk
