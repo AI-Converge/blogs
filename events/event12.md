@@ -4,7 +4,7 @@ date: "2026-06-20T10:30:00+05:30"
 location: "Amadeus Software Labs India Pvt Ltd, Bengaluru"
 image: "../posters/event12.png"
 excerpt: "Ready to move past basic prompting and build AI that actually does things? Join a high-velocity, hands-on one-day event to master autonomous agent architectures and battle in a live, gamified arena."
-registrationUrl: "https://lu.ma/example-url"
+registrationUrl: "https://luma.com/k3n0p25x"
 ---
 
 ### About This Event
